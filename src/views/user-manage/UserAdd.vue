@@ -1,5 +1,5 @@
 <template>
     <div>
-        mainbox
+        Home
     </div>
 </template>
